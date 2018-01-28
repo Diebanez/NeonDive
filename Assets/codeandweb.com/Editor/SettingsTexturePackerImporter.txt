@@ -1,0 +1,24 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Textures/Background/background_assets.tpsheet
+- Assets/Textures/Background/background_silhouettes.tpsheet
+- Assets/Textures/Ships/life_UI.tpsheet
+- Assets/Textures/Ships/shoot_UI.tpsheet
+- Assets/titlescreen_UI.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Textures/Background/background_assets.png
+- Assets/Textures/Background/background_silhouettes.png
+- Assets/Textures/Ships/life_UI.png
+- Assets/Textures/Ships/shoot_UI.png
+- Assets/titlescreen_UI.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
