@@ -5,17 +5,17 @@ Your objective is to reach the end of the game, good luck.
 Credits: 
 
 Game designers:
-Stefano Rizzo
-Ilario Mercurio 
+Stefano Rizzo,
+Ilario Mercurio.
 
 2D Artists:
-Silvia Panicali 
-Chiara Di Palma
-Benedetta Lasagno 
+Silvia Panicali, 
+Chiara Di Palma,
+Benedetta Lasagno.
 
 Programmers:
-Diego Cugno
-Francesco Micheletti 
+Diego Cugno,
+Francesco Micheletti.
 
 Tools and Technologies: 
 Unity (any product)
